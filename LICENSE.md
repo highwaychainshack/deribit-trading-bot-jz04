@@ -1,4 +1,4 @@
-# 
+# Enhance your trading with vip deribit trading bot Module | position-sizing + webhook-support, the #1 deribit trading bot. Includes position-sizing and webhook-support for a
 
 
 
